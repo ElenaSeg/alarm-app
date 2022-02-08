@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/Icons">
+        <file alias="Clock.png">Icons/1349069370_Alarm_Clock.png</file>
+    </qresource>
+    <qresource prefix="/Sounds">
+        <file alias="alarm.ogg">Sounds/condition_one.ogg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file alias="cities.xml">cities.xml</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cities>
+	<city city_name="Москва">
+		<timeUTC>+3</timeUTC>
+	</city>
+	<city city_name="Алжир">
+		<timeUTC>+1</timeUTC>
+	</city>
+	<city city_name="Лондон">
+		<timeUTC>+0</timeUTC>
+	</city>
+	<city city_name="Владивосток">
+		<timeUTC>+10</timeUTC>
+	</city>
+</cities>
